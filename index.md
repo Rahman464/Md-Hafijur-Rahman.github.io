@@ -4,7 +4,7 @@ title: Md Hafijur Rahman
 ---
 <img src="profile.png" alt="Profile photo" width="200" style="border-radius: 50%; margin-bottom: 20px;" />
 
-# Hafijur Rahman
+# Md Hafijur Rahman
 # Md Hafijur Rahman
 
 Ph.D. Candidate in Mechanical Engineering  
