@@ -17,6 +17,9 @@ The Pennsylvania State University
 
 Welcome to my research website!  
 My work focuses on defect mitigation in radiation-damaged materials and wide-bandgap semiconductors using Electron Wind Force (EWF) based low-temperature annealing.
+## 🔗 Online Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=aK6TLVcAAAAJ&hl=en)
 
 ## 🔬 Research Interests
 - Defect dynamics in alloys and semiconductors- Electron wind force annealing
