@@ -18,3 +18,6 @@ My work focuses on defect mitigation in radiation-damaged materials and wide-ban
 
 ## 📄 [Download CV](CV.pdf)
 ## 📬 Contact: mxr5923@psu.edu
+<img src="profile.png" alt="Profile photo" width="200" style="border-radius: 50%; margin-bottom: 20px;" />
+
+# Hafijur Rahman
