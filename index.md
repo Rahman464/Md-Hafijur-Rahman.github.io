@@ -2,6 +2,13 @@
 <img src="profile.png" alt="Profile photo" width="200" style="border-radius: 50%; margin-bottom: 20px;" />
 
 # Hafijur Rahman
+<p align="center">
+  <a href="/">Home</a> |
+  <a href="/research">Research</a> |
+  <a href="/publications">Publications</a> |
+  <a href="/contact">Contact</a> |
+  <a href="CV.pdf">CV</a>
+</p>
 
 ---
 layout: default
