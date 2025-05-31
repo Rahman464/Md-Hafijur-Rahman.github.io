@@ -1,7 +1,17 @@
-<link rel="stylesheet" href="assets/style.css">
-<img src="profile.png" alt="Profile photo" width="200" style="border-radius: 50%; margin-bottom: 20px;" />
+<img src="profile.jpg" alt="Profile photo" width="200" style="border-radius: 50%; margin-bottom: 20px;" />
 
-# Hafijur Rahman
+# Md Hafijur Rahman
+
+Ph.D. Candidate in Mechanical Engineering  
+The Pennsylvania State University
+
+---
+
+I am a materials scientist and researcher focused on developing low-temperature alternatives to conventional thermal annealing. My current research explores the use of Electron Wind Force (EWF) to recover radiation-induced defects in wide-bandgap semiconductors like GaN and SiC, as well as in structural alloys.  
+
+My goal is to enable more energy-efficient, scalable approaches to defect engineering in next-generation electronic and structural systems. I am also actively engaged in in-situ characterization methods, including TEM, to visualize real-time defect dynamics during processing.
+
+---
 <p align="center">
   <a href="/">Home</a> |
   <a href="/research">Research</a> |
@@ -10,17 +20,6 @@
   <a href="CV.pdf">CV</a>
 </p>
 
----
-layout: default
-title: Md Hafijur Rahman
----
-
-
-
-# Md Hafijur Rahman
-
-Ph.D. Candidate in Mechanical Engineering  
-The Pennsylvania State University
 
 Welcome to my research website!  
 My work focuses on defect mitigation in radiation-damaged materials and wide-bandgap semiconductors using Electron Wind Force (EWF) based low-temperature annealing.
