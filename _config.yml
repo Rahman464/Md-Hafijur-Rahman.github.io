@@ -11,3 +11,5 @@ navigation:
     url: /publications
   - title: Contact
     url: /contact
+include:
+  - assets/style.css
