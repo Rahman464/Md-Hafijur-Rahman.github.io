@@ -7,4 +7,4 @@ title: Contact
 
 **Email**: mxr5923@psu.edu  
 **Address**: Department of Mechanical Engineering, Penn State University  
-**GitHub**: [github.com/your-username](https://github.com/your-username)
+
